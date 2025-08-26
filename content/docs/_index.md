@@ -1,16 +1,15 @@
 ---
-linkTitle: Documentation
-title: Introduction
+linkTitle: 文档
+title: 导览页
+date: 2025-08-26
 ---
 
-👋 Welcome to the demo of the Hugo Blox Documentation template!
+&emsp;&emsp;在左侧导览框中选择要浏览的文件，或者点击快捷跳转选项中的“文档简介”浏览所有文档内容。
 
-<!--more-->
+&emsp;&emsp;点击页面上方的“文档”页签可回到此页面。
 
-This site is a demo of the Hugo Blox Documentation theme. For the full documentation on how to use this template, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
-
-## Next
+### 快捷跳转
 
 {{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Create your docs in just 5 minutes!" >}}
+  {{< card url="overview" title="文档简介" icon="document-text" subtitle="关于所有文档内容的简介" >}}
 {{< /cards >}}

@@ -12,7 +12,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-&emsp;&emsp;此网站由刘行个人创建，主要收录了本人在学习生活逐渐积累下来的各种学习经验，一方面便于本人自己在以后回顾查找这些经验记录，另一方面也便于以网页形式将这些经验分享给其他人。
+&emsp;&emsp;此网站由刘行创建，主要收录了本人在学习生活逐渐积累下来的各种学习经验，一方面便于本人自己在以后回顾查找这些经验记录，另一方面也便于以网页形式将这些经验分享给其他人。
 
 <!-- 
 Hugo v1.0.0 is now available! This release includes new experimental features to try out, improvements to accessibility, the ability for plugins to customize image optimization in Markdown, and many more improvements and bug fixes.

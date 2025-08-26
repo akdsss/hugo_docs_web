@@ -19,16 +19,16 @@ main:
   #   weight: 50
 
 sidebar:
-  - identifier: more
-    name: Still need help?
+  - identifier:
+    name: 其它
     params:
       type: separator
     weight: 1
   - identifier: community
-    name: "Community"
+    name: "联系作者"
     pageRef: "/community"
     weight: 2
-  - identifier: hugoDocs
-    name: "Hugo Docs ↗"
-    url: "https://docs.hugoblox.com"
-    weight: 3
+  # - identifier: hugoDocs
+  #   name: "Hugo Docs ↗"
+  #   url: "https://docs.hugoblox.com"
+  #   weight: 3

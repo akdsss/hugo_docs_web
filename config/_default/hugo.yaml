@@ -14,12 +14,13 @@ cascade:
   # Docs folder options
   - _target:
       path: /docs/**
-    editable: true
+    pager: false
+    editable: false    
     show_breadcrumb: true
     # Hide date from Next In Series
     show_date: false
     # Show date modified at end of content
-    show_date_updated: true
+    show_date_updated: false
   # Blog post options
   - _target:
       path: /blog/**
@@ -27,7 +28,7 @@ cascade:
     pager: true
     editable: false
     hide_date: false
-    show_date_updated: true
+    show_date_updated: false
     reading_time: false
     commentable: false
     show_related: false

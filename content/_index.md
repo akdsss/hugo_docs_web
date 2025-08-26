@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: LX的知识储库
+      title: 经验笔记
       text: 学习，记录，分享，交流
       # primary_action:
       #   text: 所有文档

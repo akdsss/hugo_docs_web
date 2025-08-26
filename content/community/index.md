@@ -1,11 +1,18 @@
 ---
-title: Community
-toc: true
+title: 联系方式
+toc: false
 reading_time: false
 pager: false
+share: false
 ---
 
-## Support
+如有任何问题可通过以下方式联系网站作者：
+
+- QQ：2238242481
+
+- 邮箱：<2238242481@qq.com>
+
+<!-- ## Support
 
 Get support fast. Hugo Blox has the largest Hugo community on Discord, consisting of thousands of creators, developers, and startups.
 
@@ -33,4 +40,4 @@ Follow us so you are the first to know when new features and templates are launc
 
 ## Further Resources
 
-- [Hugo Forums](https://discourse.gohugo.io/) for help installing Hugo and resolving Hugo error messages
+- [Hugo Forums](https://discourse.gohugo.io/) for help installing Hugo and resolving Hugo error messages -->
